@@ -1,0 +1,27 @@
+Admin :
+Username: admin
+Password: Test@123
+
+User :
+Username: coba@gmail.com
+Password: Test@123
+
+Fitur :
+
+Admin :
+- Kelola Barang (Add, Edit, Delete)
+- Lihat pengguna
+- Order management
+- Kelola Kategoti (Add, Edit, Delete)
+
+User :
+- Login dan create account with session
+- Kelola profile (Edit)
+- Lihat barang
+- Cart
+- Checkout barang
+- Categories
+- Wishlist
+- Shipping
+- Track Order
+- Search product
