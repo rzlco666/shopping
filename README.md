@@ -2,7 +2,7 @@
 
 This is my colege project entitle 'Shopping' with Native PHP language.
 
-**An application for booking psychiatric services online.**
+**Shopping app with admin and user features.**
 
 ## How to use
 
